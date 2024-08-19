@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: eateem_v1
+Specification-Vendor: Raranono
+Specification-Version: 1
+Implementation-Title: Eat'eem Mod
+Implementation-Version: 0.1.1
+Implementation-Vendor: Raranono
+Implementation-Timestamp: 2024-08-09T20:26:50+0200
+

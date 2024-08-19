@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "jelilite",
+  "ingredient": {
+    "item": "eateem:jelilite_ore"
+  },
+  "result": "eateem:jelilite"
+}

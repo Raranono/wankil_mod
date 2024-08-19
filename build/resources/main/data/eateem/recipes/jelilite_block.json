@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "J": {
+      "item": "eateem:jelilite"
+    }
+  },
+  "pattern": [
+    "JJJ",
+    "JJJ",
+    "JJJ"
+  ],
+  "result": {
+    "item": "eateem:jelilite_block"
+  },
+  "show_notification": true
+}

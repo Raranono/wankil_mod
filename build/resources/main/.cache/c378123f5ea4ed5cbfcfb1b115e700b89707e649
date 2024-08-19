@@ -1,0 +1,4 @@
+// 1.20.1	2024-08-10T20:03:15.5556279	Tags for minecraft:block mod id eateem
+ac4f082f8ab9771684868cff49f24011b3023b0f data/eateem/tags/blocks/metal_detector_valuables.json
+d7e1fc33a6282a508a5af7a09ec2b4185d784ca6 data/minecraft/tags/blocks/mineable/pickaxe.json
+b9ff8ad4f0aa6f417f32461e611bd91bbfdc41bc data/minecraft/tags/blocks/needs_iron_tool.json

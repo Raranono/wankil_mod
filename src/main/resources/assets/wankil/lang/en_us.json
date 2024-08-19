@@ -1,0 +1,16 @@
+{
+  "item.wankil.billet_de_retard": "Billet de retard",
+  "item.wankil.jelilite": "Jelilite",
+  "item.wankil.frites": "Frites du RU",
+  "item.wankil.rage": "La rage d'Hervé",
+
+  "item.wankil.metal_detector": "Metal detector",
+
+  "block.wankil.jelilite_block": "Jelilite block",
+  "block.wankil.jelilite_ore": "Jelilite ore",
+  "block.wankil.sound_block": "Sound block",
+
+  "tooltip.wankil.metal_detector.tooltip": "Finds valuables underground",
+
+  "creativetab.wankil_tab": "Eat'eem"
+}
